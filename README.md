@@ -15,12 +15,12 @@ I'm a self-taught developer (●'◡'●)
   <img alt="VS Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
-<h3> 🌱 I’m currently learning:</h3>
+<h3>🌱 I’m currently learning:</h3>
 <p>
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
 <h3> - 👀 I’m interested in  </h3>
 <p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Minecraft-Gamer-brightgreen">
+  <img alt="Game" src="https://img.shields.io/badge/Gaming-3776AB?style=for-the-badge&logo=Gaming&logoColor=white">
 
