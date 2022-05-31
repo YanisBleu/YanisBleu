@@ -24,20 +24,3 @@ I'm a self-taught developer (●'◡'●)
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/Minecraft-Gamer-brightgreen">
 
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @YanisBleu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
