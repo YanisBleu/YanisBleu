@@ -14,7 +14,7 @@ I'm a self-taught developer (●'◡'●)
 </p>
 <h3> - 👉 In : </h3>
  <p>
-  <img alt="VS Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+  <img alt="VS Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"> 
 </p>
 
 
