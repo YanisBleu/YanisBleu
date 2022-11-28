@@ -31,6 +31,6 @@ I'm a self-taught developer (●'◡'●)
  
  <h3> - 👾 How to contact me </h3>
  
- [![Discord-Link](https://img.shields.io/badge/YanisBleu/7789-5865F2?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/YanisBleu)
+ [![Discord-Link](https://img.shields.io/badge/YanisBleu/7789-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/YanisBleu)
  
 
