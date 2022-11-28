@@ -1,7 +1,6 @@
 ### - 👋 Hi, I’m @YanisBleu
 
 I'm a self-taught developer (●'◡'●)
-[![Discord-Link](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/YanisBleu)
 
 
 <h3> - 👨‍💻 I code with :</h3>
@@ -31,7 +30,7 @@ I'm a self-taught developer (●'◡'●)
  </p>
  
  <h3> - 👾 How to contact me </h3>
-<p>
-  <img alt="Discord" src="https://img.shields.io/badge/YanisBleu-7789-303B9D?style=for-the-badge&logo=discord&logoColor=white"> 
-   </p>
+ 
+ [![Discord-Link](https://img.shields.io/badge/YanisBleu/7789-5865F2?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/YanisBleu)
+ 
 
