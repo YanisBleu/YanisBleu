@@ -5,11 +5,10 @@ I'm a self-taught developer (●'◡'●)
 
 <h3> - 👨‍💻 I code with :</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F6EA23?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2B2E3A?style=for-the-badge&logo=lua&logoColor=white">
 </p>
 <h3> - 👉 In : </h3>
