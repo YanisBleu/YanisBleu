@@ -29,11 +29,6 @@
 ![YanisBleu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanisBleu&bg_color=000000&color=0C0CE0&line=000080&point=ffffff&area=true&hide_border=true)
 
 ### ℹ️ Status:
-<div align="center" dir="auto">
+<div align="left" dir="auto">
    <img style="width: 55%;" src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true"/>
 </div>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YanisBleu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yanisbleu.github.io/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/archlinux.svg' alt='archlinux' height='40'>](https://yanisbleu.github.io/)  
-
-
-
