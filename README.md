@@ -18,8 +18,8 @@
 
 
 - ❤️ Favorite dev languages:
-   - C# (Back end)
-   - XAML (Front end)
+   - C# / C++ (Back end)
+   - HTML / CSS (Front end)
    - Cat (Animal)
 
 
