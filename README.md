@@ -14,11 +14,11 @@
 - Silly guy who got into tech very young
 
   
-- 🧠 Skills:  Python / JS / HTML / CSS / C++ (Arduino) / C# / Java
+- 🧠 Skills:  Python / JS / HTML / CSS / C++ (Arduino) / C / Java
 
 
 - ❤️ Favorite dev languages:
-   - C# / C++ (Back end)
+   - C / C++ (Back end)
    - HTML / CSS (Front end)
    - Cat (Animal)
 
@@ -31,5 +31,5 @@
 
 ### ℹ️ Status:
 <div align="left" dir="auto">
-   <img style="width: 55%;" src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true"/>
+   <img style="width: 60%;" src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true"/>
 </div>
