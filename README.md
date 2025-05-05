@@ -32,4 +32,4 @@
 ### ℹ️ Status:
 
 ![YanisBldeu's github activity graph](https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true)
-![YanisBldeu's github activity graph](https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=597&card_height=210)
+![YanisBldeu's github activity graph](https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=530&card_height=210)
