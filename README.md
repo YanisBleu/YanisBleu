@@ -32,7 +32,14 @@
 
 ### ℹ️ Status:
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true" alt="Discord Status" style="height: 210px;">
-  <img src="https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=450&card_height=210" alt="GitHub Streak Stats" style="height: 210px;">
-</div>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true" alt="Discord Status" height="210">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=450&card_height=210" alt="GitHub Streak Stats" height="210">
+    </td>
+  </tr>
+</table>
+
