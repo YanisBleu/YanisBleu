@@ -29,7 +29,10 @@
 ### ℹ️ My stats:
 ![YanisBleu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanisBleu&bg_color=000000&color=0C0CE0&line=000080&point=ffffff&area=true&hide_border=true)
 
+
 ### ℹ️ Status:
 
-![YanisBldeu's github activity graph](https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true)
-![YanisBldeu's github activity graph](https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=450&card_height=210)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true" alt="Discord Status" style="height: 210px;">
+  <img src="https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=450&card_height=210" alt="GitHub Streak Stats" style="height: 210px;">
+</div>
