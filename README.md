@@ -6,15 +6,15 @@
 
 ### Hi there 👋, My name is Yanis
 ### 🌍 [My Website](https://yanisbleu.github.io)
-#### I'm a 17 years old French Student and love to experiment with all kind of Linux
-![I'm a 17 years old French Student and love to experiment with Linux](https://i.pinimg.com/736x/88/d4/da/88d4da6416a1f3b9d65979c93efcd23d.jpg)
+#### I'm a 18 years old French Student and love to experiment with all kind of Linux
+![I'm a 18 years old French Student and love to experiment with Linux](https://i.pinimg.com/736x/88/d4/da/88d4da6416a1f3b9d65979c93efcd23d.jpg)
 
 
 - Hardware and Software exploration and customization
 - Silly guy who got into tech very young
 
   
-- 🧠 Skills:  Python / JS / HTML / CSS / C++ (Arduino) / C / Java
+- 🧠 Skills:  Python / JS / HTML / CSS / C++ / Java
 
 
 - ❤️ Favorite dev languages:
@@ -35,10 +35,10 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=5&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true" alt="Discord Status" height="210">
+      <img src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=3&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true" alt="Discord Status" height="200">
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=0&short_numbers=true&card_width=450&card_height=210" alt="GitHub Streak Stats" height="210">
+      <img src="https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=3&short_numbers=true&card_width=450&card_height=200" alt="GitHub Streak Stats" height="200">
     </td>
   </tr>
 </table>
