@@ -6,40 +6,58 @@
 
 ### Hi there 👋, My name is Yanis
 ### 🌍 [My Website](https://yanisbleu.github.io)
-#### I'm a 18 years old French Student and love to experiment with all kind of Linux
-![I'm a 18 years old French Student and love to experiment with Linux](https://i.pinimg.com/736x/88/d4/da/88d4da6416a1f3b9d65979c93efcd23d.jpg)
+### 🎓 18-year-old French student  
+#### 🐧 Linux enthusiast — I love experimenting with hardware, software, and customization
+
+![Hello!](https://i.pinimg.com/736x/88/d4/da/88d4da6416a1f3b9d65979c93efcd23d.jpg)
 
 
-- Hardware and Software exploration and customization
-- Silly guy who got into tech very young
+---
 
-  
-- 🧠 Skills:  Python / JS / HTML / CSS / C++ / Java
+## 🚀 What I Like
+- 🔧 Hardware & software exploration  
+- 🎨 System customization  
+- 🤓 Got into tech very young  
+- 🐱 Cats (obviously)
 
+---
 
-- ❤️ Favorite dev languages:
-   - C / C++ (Back end)
-   - HTML / CSS (Front end)
-   - Cat (Animal)
+## 🧠 Skills
+**Languages & Technologies**
+- Python  
+- JavaScript  
+- HTML / CSS  
+- C / C++  
+- Java
 
+---
 
-- 🌱 I’m currently learning React 
-- ⚡ Fun fact: I love cats
+## ❤️ Favorite Dev Stuff
+- ⚙️ **C / C++** — Backend & low-level
+- 🎨 **HTML / CSS** — Frontend
+- 🐈 **Cat** — Best animal (no debate)
 
-### ℹ️ My stats:
-![YanisBleu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanisBleu&bg_color=000000&color=0C0CE0&line=000080&point=ffffff&area=true&hide_border=true)
+---
 
+## 🌱 Currently Learning
+- ⚛️ **React**
 
-### ℹ️ Status:
+---
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=3&bg=040457&idleMessage=&theme=dark&showDisplayName=true&animated=true" alt="Discord Status" height="200">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=YanisBleu&theme=dark&hide_border=true&border_radius=3&short_numbers=true&card_width=450&card_height=200" alt="GitHub Streak Stats" height="200">
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YanisBleu&bg_color=000000&color=0C0CE0&line=000080&point=ffffff&area=true&hide_border=true"
+  width="100%"
+/>
+
+---
+
+## 🟢 Status
+<div style="display: flex; width: 100%; gap: 12px; flex-wrap: wrap;">
+  <img
+    src="https://lanyard.cnrad.dev/api/798310011335606315?borderRadius=6&bg=040457&theme=dark&showDisplayName=true&animated=true"
+    alt="Discord Status"
+  />
+</div>
+
 
