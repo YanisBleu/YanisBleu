@@ -5,7 +5,8 @@
 </h1>
 
 ### Hi there 👋, My name is Yanis
-### 🌍 [My Website](https://yanisbleu.github.io)
+### 🌍 [My "Official" Website](https://yanisbleu.github.io)
+#### 🌍 [My "Unofficial" links](https://guns.lol/yanisbleu)
 ### 🎓 18-year-old French student  
 #### 🐧 Linux enthusiast — I love experimenting with hardware, software, and customization
 
@@ -29,7 +30,8 @@
 - HTML / CSS  
 - C / C++  
 - Java
-
+- SQL
+- Git-related management
 ---
 
 ## ❤️ Favorite Dev Stuff
@@ -39,9 +41,9 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning Frameworks
 - ⚛️ **React**
-
+- 🔱 **Svelte**
 ---
 
 ## 📊 GitHub Stats
