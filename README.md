@@ -4,46 +4,73 @@
   </div>
 </h1>
 
-### Hi there 👋, My name is Yanis
-### 🌍 [My "Official" Website](https://yanisbleu.github.io)
-#### 🌍 [My "Unofficial" links](https://guns.lol/yanisbleu)
-### 🎓 18-year-old French student  
-#### 🐧 Linux enthusiast — I love experimenting with hardware, software, and customization
+# Hi there 👋, I'm Yanis
+
+🎓 **Computer Science student**  
+💻 Interested in **Web Development, Software Engineering & Systems**  
+🐧 Linux enthusiast who enjoys experimenting with hardware, software and customization.
+
+🌍 **[My Official Website](https://yanisbleu.github.io)**  
+🔗 **[My other links](https://guns.lol/yanisbleu)**
 
 ![Hello!](https://i.pinimg.com/736x/88/d4/da/88d4da6416a1f3b9d65979c93efcd23d.jpg)
 
 
 ---
 
-## 🚀 What I Like
-- 🔧 Hardware & software exploration  
-- 🎨 System customization  
-- 🤓 Got into tech very young  
-- 🐱 Cats (obviously)
+## Technology isn't my only interest.
 
+- 🎹 Piano & music composition
+- 🎮 Video games
+- 🎨 Art & visual creativity
+- 🐧 Linux & open-source culture
+- 🔧 Hardware experimentation
+- 🐱 Cats — obviously.
+- 
 ---
 
-## 🧠 Skills
-**Languages & Technologies**
-- Python  
-- JavaScript  
-- HTML / CSS  
-- C / C++  
+## 🛠️ Tech Stack
+
+### 🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+
+### 💻 Programming
+
+- Python
 - Java
+- C / C++
+
+### 🗄️ Databases
+
 - SQL
-- Git-related management
----
+- Oracle Database
+- PL/SQL
+- MySQL
 
-## ❤️ Favorite Dev Stuff
-- ⚙️ **C / C++** — Backend & low-level
-- 🎨 **HTML / CSS** — Frontend
-- 🐈 **Cat** — Best animal (no debate)
+### 🐧 Systems & Networks
 
----
+- Linux / Arch Linux
+- TCP/IP
+- DHCP
+- DNS
+- SSH
+- Virtual networking
 
-## 🌱 Currently Learning Frameworks
-- ⚛️ **React**
-- 🔱 **Svelte**
+### 🔧 Tools
+
+- Git
+- GitHub
+- GitLab
+- Visual Studio Code
+- Eclipse
+- Visual Paradigm
+- Lucidchart
+- VirtualBox
+
 ---
 
 ## 📊 GitHub Stats
